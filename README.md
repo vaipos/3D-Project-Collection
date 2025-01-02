@@ -1,3 +1,3 @@
 # 3D-Project-Collection
 
-[Watch the video](Orbital-Control.mov)
+[Watch the Oribital Control render](Orbital-Control.mov)
